@@ -1,0 +1,5 @@
+site_name: Vitaeom Documentation
+nav:
+    - Home: index.md
+    - Installation: installation.md
+theme: readthedocs
